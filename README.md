@@ -8,6 +8,6 @@ Este repositorio contiene la implementación de algoritmos de procesamiento de i
 * **`Imagenes/`**: Dataset de imágenes utilizadas para las pruebas.
 * **`Informe_PDI_TP2.pdf`**: Informe técnico con el análisis de resultados.
 
-* en el entorno a trabajar, se deben instalar las dependencias usando:
+* En el entorno a trabajar, se deben instalar las dependencias usando:
 ```bash
 pip install -r requirements.txt
